@@ -6,3 +6,4 @@ tensorflow
 pydot
 pydotplus
 graphviz
+tensorflow_datasets

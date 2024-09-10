@@ -7,3 +7,4 @@ pydot
 pydotplus
 graphviz
 tensorflow_datasets
+imageio
